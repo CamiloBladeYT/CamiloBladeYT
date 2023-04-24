@@ -27,6 +27,7 @@ Here are some ideas to get you started:
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="40" height="40">&nbsp;
+
     </div>
 </div>
 
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
 
 ###  📊My stats: 
 [![GitHub Streak](https://streak-stats.demolab.com?user=CamiloBladeYT&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
+---
 ![Camilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamiloBladeYT&theme=dark&show_icons=true)
-
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloBladeYT)](https://github.com/anuraghazra/github-readme-stats)
