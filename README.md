@@ -1,4 +1,6 @@
-<div class="tenor-gif-embed" data-postid="20696916" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/sukuna-ryomen-sukuna-jujutsu-kaisen-jjk-gif-20696916">Sukuna Ryomen Sukuna GIF</a>from <a href="https://tenor.com/search/sukuna-gifs">Sukuna GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="header" align="center">
+    <img src="https://media.tenor.com/pXp1E4y0jhYAAAAC/sukuna-ryomen-sukuna.gif">
+</div>
 
 ### Hi there 👋
 
